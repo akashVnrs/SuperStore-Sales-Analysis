@@ -1,34 +1,51 @@
-**SuperStore Sales Analysis**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SuperStore Sales Analysis</title>
+</head>
+<body>
+    <h1>SuperStore Sales Analysis</h1>
+    <p>This repository contains a comprehensive analysis of SuperStore Sales using Power BI, offering valuable insights into sales performance and customer behavior.</p>
 
-This repository contains a comprehensive analysis of SuperStore Sales using Power BI, offering valuable insights into sales performance and customer behavior.
+    <h2>Key Insights</h2>
+    <ul>
+        <li><strong>Sales Growth:</strong> $1.6M in sales with a $175K profit.</li>
+        <li><strong>Online Dominance:</strong> 35% of total sales.</li>
+        <li><strong>West Region Leads:</strong> 33% of sales.</li>
+        <li><strong>COD Preference:</strong> 43% of customers prefer cash on delivery.</li>
+        <li><strong>Standard Shipping Popularity:</strong> $0.33M in sales.</li>
+        <li><strong>Top-Selling Category:</strong> Office Supplies with $0.64M in revenue.</li>
+        <li><strong>Consistent Monthly Performance:</strong> Steady sales throughout the year.</li>
+    </ul>
 
-**Key Insights**
-- 📈 **Sales Growth:** $1.6M in sales with a $175K profit.
-- 🌐 **Online Dominance:** 35% of total sales.
-- 📍 **West Region Leads:** 33% of sales.
-- 💵 **COD Preference:** 43% of customers prefer cash on delivery.
-- 🚚 **Standard Shipping Popularity:** $0.33M in sales.
-- 🗂️ **Top-Selling Category:** Office Supplies with $0.64M in revenue.
-- 📅 **Consistent Monthly Performance:** Steady sales throughout the year.
+    <h2>Learnings</h2>
+    <ul>
+        <li><strong>Data Visualization Mastery:</strong> Leveraged Power BI's tools to present complex data clearly.</li>
+        <li><strong>Enhanced Analytical Skills:</strong> Identified trends and derived actionable insights.</li>
+        <li><strong>Improved Decision-Making:</strong> Gained a deeper understanding of sales and profit variations.</li>
+        <li><strong>User-Friendly Design:</strong> Created an interactive dashboard for stakeholder exploration.</li>
+    </ul>
 
-**Learnings**
-- 📊 **Data Visualization Mastery:** Leveraged Power BI's tools to present complex data clearly.
-- 🔍 **Enhanced Analytical Skills:** Identified trends and derived actionable insights.
-- 🧠 **Improved Decision-Making:** Gained a deeper understanding of sales and profit variations.
-- 🎨 **User-Friendly Design:** Created an interactive dashboard for stakeholder exploration.
+    <h2>Project Structure</h2>
+    <ul>
+        <li><strong>Data:</strong> Contains the data used for the analysis.</li>
+        <li><strong>Power BI File:</strong> The Power BI desktop file (.pbix) used for creating the dashboard.</li>
+        <li><strong>Documentation:</strong> Detailed documentation of the analysis and insights.</li>
+    </ul>
 
-**Project Structure**
-- **📁 Data:** Contains the data used for the analysis.
-- **🗂️ Power BI File:** The Power BI desktop file (.pbix) used for creating the dashboard.
-- **📑 Documentation:** Detailed documentation of the analysis and insights.
+    <h2>How to Use</h2>
+    <ol>
+        <li>Clone the repository: <code>git clone https://github.com/yourusername/SuperStore-Sales-Analysis.git</code></li>
+        <li>Open the Power BI file in Power BI Desktop.</li>
+        <li>Explore the dashboard and insights.</li>
+    </ol>
 
-**How to Use**
-1. Clone the repository: `git clone https://github.com/akashVnrs/SuperStore-Sales-Analysis.git`
-2. Open the Power BI file in Power BI Desktop.
-3. Explore the dashboard and insights.
+    <h2>Conclusion</h2>
+    <p>This project showcases my ability to analyze data and create insightful visualizations using Power BI. The insights gained can drive business growth and efficiency.</p>
 
-**Conclusion**
-This project showcases my ability to analyze data and create insightful visualizations using Power BI. The insights gained can drive business growth and efficiency.
-
-**Contact**
-For any questions or collaboration, feel free to reach out to me on LinkedIn.
+    <h2>Contact</h2>
+    <p>For any questions or collaboration, feel free to reach out to me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+</body>
+</html>
